@@ -13,7 +13,7 @@ The routing lesson here is:
 
 ## Suggested Workflow
 
-1. Read [starter_assets/task_inbox.md](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/Claude_Cowork/PROJECTS/03_Agent_Routing/starter_assets/task_inbox.md).
+1. Read [starter_assets/task_inbox.md](Agents_Lab/Claude_Cowork/PROJECTS/03_Agent_Routing/starter_assets/task_inbox.md).
 2. Ask Cowork to group tasks by workflow shape.
 3. Turn the result into a short routing memo.
 
@@ -22,4 +22,3 @@ The routing lesson here is:
 ```text
 Read the task inbox and design a simple Cowork routing guide. For each task type, say whether it should be handled as a single pass, a staged extract-and-synthesize workflow, a validation-heavy workflow, or a separate thread.
 ```
-

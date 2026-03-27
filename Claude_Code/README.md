@@ -21,20 +21,20 @@ This is the best starting point in the repo if you care about:
 
 ## Track Structure
 
-- [SETUP.md](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/Claude_Code/SETUP.md)
-- [CAPABILITIES.md](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/Claude_Code/CAPABILITIES.md)
-- [LIMITATIONS.md](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/Claude_Code/LIMITATIONS.md)
-- [BEST_PRACTICES.md](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/Claude_Code/BEST_PRACTICES.md)
-- [CHEAT_SHEET.md](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/Claude_Code/CHEAT_SHEET.md)
-- [PROJECTS](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/Claude_Code/PROJECTS)
-- [TEMPLATES](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/Claude_Code/TEMPLATES)
+- [SETUP.md](Agents_Lab/Claude_Code/SETUP.md)
+- [CAPABILITIES.md](Agents_Lab/Claude_Code/CAPABILITIES.md)
+- [LIMITATIONS.md](Agents_Lab/Claude_Code/LIMITATIONS.md)
+- [BEST_PRACTICES.md](Agents_Lab/Claude_Code/BEST_PRACTICES.md)
+- [CHEAT_SHEET.md](Agents_Lab/Claude_Code/CHEAT_SHEET.md)
+- [PROJECTS](Agents_Lab/Claude_Code/PROJECTS)
+- [TEMPLATES](Agents_Lab/Claude_Code/TEMPLATES)
 
 ## Recommended Project Order
 
-1. [01_Single_Agent_Workflow](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/Claude_Code/PROJECTS/01_Single_Agent_Workflow)
-2. [02_Review_And_Refine](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/Claude_Code/PROJECTS/02_Review_And_Refine)
-3. [03_Agent_Routing](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/Claude_Code/PROJECTS/03_Agent_Routing)
-4. [04_Project_Subagents](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/Claude_Code/PROJECTS/04_Project_Subagents)
+1. [01_Single_Agent_Workflow](Agents_Lab/Claude_Code/PROJECTS/01_Single_Agent_Workflow)
+2. [02_Review_And_Refine](Agents_Lab/Claude_Code/PROJECTS/02_Review_And_Refine)
+3. [03_Agent_Routing](Agents_Lab/Claude_Code/PROJECTS/03_Agent_Routing)
+4. [04_Project_Subagents](Agents_Lab/Claude_Code/PROJECTS/04_Project_Subagents)
 
 ## Honest Positioning
 
@@ -57,4 +57,3 @@ This track is based on Anthropic's public documentation available on March 27, 2
 - [Subagents](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
 - [Slash commands](https://docs.anthropic.com/en/docs/claude-code/slash-commands)
 - [MCP docs](https://docs.anthropic.com/en/docs/mcp)
-

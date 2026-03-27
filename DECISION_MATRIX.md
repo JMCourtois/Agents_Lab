@@ -33,9 +33,9 @@ Escalate only when you need:
 
 | If your center of gravity is... | Start here | Notes |
 | --- | --- | --- |
-| Editing code, running tasks, validating fixes | [Codex](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/Codex) | Best fit when the artifact is code |
-| Building repo-local instructions, roles, and specialized task routing | [Claude_Code](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/Claude_Code) | Strong fit for subagents and project memory |
-| Research, synthesis, desktop tasks, and file-based knowledge work | [Claude_Cowork](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/Claude_Cowork) | Best fit when the artifact is not mainly code |
+| Editing code, running tasks, validating fixes | [Codex](Agents_Lab/Codex) | Best fit when the artifact is code |
+| Building repo-local instructions, roles, and specialized task routing | [Claude_Code](Agents_Lab/Claude_Code) | Strong fit for subagents and project memory |
+| Research, synthesis, desktop tasks, and file-based knowledge work | [Claude_Cowork](Agents_Lab/Claude_Cowork) | Best fit when the artifact is not mainly code |
 
 ## Practical Rules
 
@@ -75,4 +75,3 @@ Escalate only when you need:
 - Dynamic handoffs without clear stop conditions.
 - Parallel writing into the same file.
 - Letting architecture complexity become a substitute for clear prompts.
-

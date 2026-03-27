@@ -17,8 +17,8 @@ This is the pattern you should master before touching multi-agent orchestration:
 
 ## Suggested Workflow
 
-1. Read [brief.md](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/Codex/PROJECTS/01_Single_Agent_Workflow/brief.md).
-2. Open [starter_assets/raw_brief.md](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/Codex/PROJECTS/01_Single_Agent_Workflow/starter_assets/raw_brief.md).
+1. Read [brief.md](Agents_Lab/Codex/PROJECTS/01_Single_Agent_Workflow/brief.md).
+2. Open [starter_assets/raw_brief.md](Agents_Lab/Codex/PROJECTS/01_Single_Agent_Workflow/starter_assets/raw_brief.md).
 3. Ask Codex to convert the messy notes into a short operating guide.
 4. Ask for one self-critique pass.
 5. Save the final result as your own output artifact.
@@ -28,4 +28,3 @@ This is the pattern you should master before touching multi-agent orchestration:
 ```text
 Turn the attached rough brief into a concise one-page onboarding note for a new teammate. Keep it practical, structured, and readable. After drafting it, critique weak spots and provide a revised final version.
 ```
-

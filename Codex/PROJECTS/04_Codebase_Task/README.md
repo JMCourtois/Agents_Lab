@@ -18,7 +18,7 @@ You are no longer just asking for advice. You are asking for code work with vali
 ## Suggested Workflow
 
 1. Open the starter repo inside `starter_assets/`.
-2. Read [brief.md](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/Codex/PROJECTS/04_Codebase_Task/brief.md).
+2. Read [brief.md](Agents_Lab/Codex/PROJECTS/04_Codebase_Task/brief.md).
 3. Show Codex the bug report.
 4. Ask for the smallest safe fix and the relevant test run.
 5. Ask for a short code review on the resulting change.
@@ -28,4 +28,3 @@ You are no longer just asking for advice. You are asking for code work with vali
 ```text
 Read the bug report, inspect the checkout code, implement the smallest safe fix, run the tests, and summarize the behavior change plus any remaining risk.
 ```
-

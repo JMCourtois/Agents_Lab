@@ -18,18 +18,18 @@ Because these products change quickly, especially around orchestration, desktop 
 
 ## How To Use This Repo
 
-1. Read [LEARNING_PATH.md](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/LEARNING_PATH.md).
-2. Skim [GLOSSARY.md](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/GLOSSARY.md) so the vocabulary is familiar.
-3. Read [AGENT_ARCHITECTURES.md](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/AGENT_ARCHITECTURES.md) once for the big picture.
-4. Use [DECISION_MATRIX.md](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/DECISION_MATRIX.md) whenever you are unsure which pattern or tool to choose.
+1. Read [LEARNING_PATH.md](Agents_Lab/LEARNING_PATH.md).
+2. Skim [GLOSSARY.md](Agents_Lab/GLOSSARY.md) so the vocabulary is familiar.
+3. Read [AGENT_ARCHITECTURES.md](Agents_Lab/AGENT_ARCHITECTURES.md) once for the big picture.
+4. Use [DECISION_MATRIX.md](Agents_Lab/DECISION_MATRIX.md) whenever you are unsure which pattern or tool to choose.
 5. Pick one tool track and complete its projects in order.
 6. Come back later and compare the same project number across tools.
 
 ## Repo Map
 
-- [Codex](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/Codex): setup, capabilities, limits, templates, and four guided projects.
-- [Claude_Code](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/Claude_Code): setup, subagent-oriented workflows, templates, and four guided projects.
-- [Claude_Cowork](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/Claude_Cowork): setup, desktop knowledge-work workflows, templates, and four guided projects.
+- [Codex](Agents_Lab/Codex): setup, capabilities, limits, templates, and four guided projects.
+- [Claude_Code](Agents_Lab/Claude_Code): setup, subagent-oriented workflows, templates, and four guided projects.
+- [Claude_Cowork](Agents_Lab/Claude_Cowork): setup, desktop knowledge-work workflows, templates, and four guided projects.
 
 ## Design Principles
 
@@ -68,4 +68,3 @@ Because these products change quickly, especially around orchestration, desktop 
   - [Codex docs](https://platform.openai.com/docs/codex)
   - [Code generation guide](https://platform.openai.com/docs/guides/code-generation)
   - [Docs MCP](https://platform.openai.com/docs/docs-mcp)
-

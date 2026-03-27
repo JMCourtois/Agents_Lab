@@ -9,19 +9,19 @@ This repo is designed so you can use it in two ways:
 
 ### Stage 1: Build the mental model
 
-- Read [GLOSSARY.md](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/GLOSSARY.md).
-- Read the first half of [AGENT_ARCHITECTURES.md](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/AGENT_ARCHITECTURES.md), especially the foundations and core patterns.
-- Read [DECISION_MATRIX.md](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/DECISION_MATRIX.md).
+- Read [GLOSSARY.md](Agents_Lab/GLOSSARY.md).
+- Read the first half of [AGENT_ARCHITECTURES.md](Agents_Lab/AGENT_ARCHITECTURES.md), especially the foundations and core patterns.
+- Read [DECISION_MATRIX.md](Agents_Lab/DECISION_MATRIX.md).
 
 Expected time: 45 to 60 minutes.
 
 ### Stage 2: Pick one tool
 
-If you mostly want code-first workflows, start with [Codex](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/Codex).
+If you mostly want code-first workflows, start with [Codex](Agents_Lab/Codex).
 
-If you mostly want project-local agent roles and repo-native orchestration, start with [Claude_Code](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/Claude_Code).
+If you mostly want project-local agent roles and repo-native orchestration, start with [Claude_Code](Agents_Lab/Claude_Code).
 
-If you mostly want desktop execution, research, synthesis, and file-heavy knowledge work, start with [Claude_Cowork](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/Claude_Cowork).
+If you mostly want desktop execution, research, synthesis, and file-heavy knowledge work, start with [Claude_Cowork](Agents_Lab/Claude_Cowork).
 
 ### Stage 3: Do the three shared projects
 
@@ -53,9 +53,9 @@ Once you finish one full track, open the same project number in another tool fol
 
 If you only have one afternoon:
 
-1. Read [README.md](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/README.md).
-2. Read the summary table in [AGENT_ARCHITECTURES.md](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/AGENT_ARCHITECTURES.md).
-3. Read [DECISION_MATRIX.md](/Users/jean/Documents/Halfway/Coding/Github Projects/Agents_Lab/DECISION_MATRIX.md).
+1. Read [README.md](Agents_Lab/README.md).
+2. Read the summary table in [AGENT_ARCHITECTURES.md](Agents_Lab/AGENT_ARCHITECTURES.md).
+3. Read [DECISION_MATRIX.md](Agents_Lab/DECISION_MATRIX.md).
 4. Complete one tool's `01`, `02`, and `04` projects.
 
 ## How To Revisit Later
@@ -80,4 +80,3 @@ Start with:
 - explicit success criteria
 
 That foundation transfers cleanly across every tool in this repo.
-
